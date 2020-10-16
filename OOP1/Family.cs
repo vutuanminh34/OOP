@@ -10,6 +10,8 @@ namespace OOP1
      */
     class Family : Person
     {
+
+
         public int numOfPerson, numOfHouse;
         public Person[] list;
 
